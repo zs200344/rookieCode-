@@ -1,0 +1,11 @@
+D:\mywork\Found.MVC\Found.MVC\bin\Debug\netcoreapp2.0\Found.MVC.deps.json
+D:\mywork\Found.MVC\Found.MVC\bin\Debug\netcoreapp2.0\Found.MVC.runtimeconfig.json
+D:\mywork\Found.MVC\Found.MVC\bin\Debug\netcoreapp2.0\Found.MVC.runtimeconfig.dev.json
+D:\mywork\Found.MVC\Found.MVC\bin\Debug\netcoreapp2.0\Found.MVC.dll
+D:\mywork\Found.MVC\Found.MVC\obj\Debug\netcoreapp2.0\Found.MVC.csproj.CoreCompileInputs.cache
+D:\mywork\Found.MVC\Found.MVC\obj\Debug\netcoreapp2.0\Found.MVC.AssemblyInfoInputs.cache
+D:\mywork\Found.MVC\Found.MVC\obj\Debug\netcoreapp2.0\Found.MVC.AssemblyInfo.cs
+D:\mywork\Found.MVC\Found.MVC\bin\Debug\netcoreapp2.0\Found.MVC.pdb
+D:\mywork\Found.MVC\Found.MVC\obj\Debug\netcoreapp2.0\Found.MVC.dll
+D:\mywork\Found.MVC\Found.MVC\obj\Debug\netcoreapp2.0\Found.MVC.pdb
+D:\mywork\Found.MVC\Found.MVC\obj\Debug\netcoreapp2.0\Found.MVC.csprojResolveAssemblyReference.cache

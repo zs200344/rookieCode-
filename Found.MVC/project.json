@@ -1,0 +1,5 @@
+﻿{
+  "tools": {
+    "Microsoft.EntityFrameworkCore.Tools": "2.0"
+  }
+}
